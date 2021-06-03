@@ -88,6 +88,7 @@ https://mountainscholar.org/bitstream/handle/20.500.11919/1335/Win%20Nim.pdf?seq
 e=1&amp;isAllowed=y
 [4] Ferguson, T. (2020). GAME THEORY. Retrieved 2020, from
 https://www.cs.cmu.edu/afs/cs/academic/class/15859-f01/www/notes/comb.pdf
+
 ###### Code
 https://en.wikipedia.org/wiki/Nim
 https://en.wikipedia.org/wiki/Minimax
